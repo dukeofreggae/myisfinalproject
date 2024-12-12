@@ -1,0 +1,32 @@
+h1{
+    color: white !important;
+    font-family: 'Times New Roman', Times, serif
+    !important;
+    
+}
+span{
+    font-family: 'Times New Roman', Times, serif
+    !important;
+}
+h2{
+    color: rgb(62, 0, 128) !important;
+}
+#return-to-top {
+    background-color: rgb(62, 0, 128);
+    border-color: rgb(62, 0, 128);
+}
+
+#return-to-top:hover {
+    background-color: darkviolet;
+    border-color: darkviolet;
+}
+
+.d-flex.justify-content-center {
+    justify-content: center; /* Ensures the button is centered */
+}
+body {
+    background-color: rgb(236, 227, 197) !important;
+}
+hr {
+    border-color: black !important;
+}
